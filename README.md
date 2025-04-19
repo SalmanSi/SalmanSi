@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, DevOps & Scalable Backend Design.**
 
-- 👯 I’m looking to collaborate on **spen source projects.**
+- 👯 I’m looking to collaborate on **open source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
